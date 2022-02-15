@@ -1069,6 +1069,7 @@ img {
 
 .form-link {
   color: var(--accent-color);
+  text-decoration-skip-ink: none;
 }
 
 .input-icon {
